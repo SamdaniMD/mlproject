@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+
+-e . # this is reuired to trigger the setup.py fiel when ever this file is getting triggered
